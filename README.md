@@ -1,7 +1,13 @@
 # Rafael Camargo 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=rafaelsc04&show_icons=true&hide=prs,issues&theme=radical" />
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsc04&layout=compact&theme=radical" />
+  <a href="https://github.com/rafaelsc04">
+   <img width="490rem" align="center" src="https://github-readme-stats.vercel.app/api/?username=rafaelsc04&show_icons=true&hide=prs,issues&theme=merko" />
+  </a>
+
+  <a href="https://github.com/rafaelsc04">
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsc04&layout=compact&theme=merko" />
+  </a>
+
  
 ## Contato
 
