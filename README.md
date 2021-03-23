@@ -1,11 +1,11 @@
 # Rafael Camargo 
 
   <a href="https://github.com/rafaelsc04">
-   <img width="490rem" align="center" src="https://github-readme-stats.vercel.app/api/?username=rafaelsc04&show_icons=true&hide=prs,issues&theme=merko" />
+   <img width="490rem" align="center" src="https://github-readme-stats.vercel.app/api/?username=rafaelsc04&show_icons=true&hide=prs,issues&theme=dark" />
   </a>
 
   <a href="https://github.com/rafaelsc04">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsc04&layout=compact&theme=merko" />
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsc04&layout=compact&theme=dark" />
   </a>
 
  
